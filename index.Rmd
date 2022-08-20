@@ -5,9 +5,9 @@ links:
   - label: GitHub
     url: "https://github.com/Liu22Yi"
   - label: Blogs
-    url: "Blog.html"
+    url: "Blogs/Blog.html"
   - label: Publications
-    url: "Publications.html"
+    url: "Publications/Publications.html"
 output:
   postcards::trestles
 ---
