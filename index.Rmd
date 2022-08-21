@@ -5,9 +5,9 @@ links:
   - label: GitHub
     url: "https://github.com/Liu22Yi"
   - label: Blogs
-    url: "Blogs/Blog.html"
+    url: "Blog.html"
   - label: Publications
-    url: "Publications/Publications.html"
+    url: "Publications.html"
 output:
   postcards::trestles
 ---
@@ -22,9 +22,9 @@ I am a big fan of nature and sports and I focus on environmental data analysis.
 
 Bachelor of Engineering in Hydrology and Water Resources Engineering | September 2018 - July 2022
 
-First Class of the Merit Student Scholarship for three years
++ First Class of the Merit Student Scholarship for three years
 
-University Athletes of the Year
++ University Athletes of the Year
 
 **University of Toronto** | Toronto, Ontario, Canada
 
