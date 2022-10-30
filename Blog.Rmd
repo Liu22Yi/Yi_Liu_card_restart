@@ -7,23 +7,19 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## {.tabset}
-
-### Articles
-
 **Green Camp**
 
-![](20220820/images/Green_camp.jpg){width=30%} 
+![](blogs/20220820/images/Green_camp.jpg){width=30%} 
 
 Daily blogs of the memorable life in the Green Camp
 
-[Day 1](https://mp.weixin.qq.com/s/DrvQ7vL74wHQdw_S0dhzgw) | [Day 2-3](https://mp.weixin.qq.com/s/IIt6jdHti-dT-KT8U3vLRw) | [Day 4-5](https://mp.weixin.qq.com/s/2qOcG9_jjVGU6iaNZ_l8MA)
+[Day 1 第二十七届全国大学生绿色营自然讲解员训练营集合开营](https://mp.weixin.qq.com/s/DrvQ7vL74wHQdw_S0dhzgw) | [Day 2-3 知来处，明去处；观木叶，闻瀑声](https://mp.weixin.qq.com/s/IIt6jdHti-dT-KT8U3vLRw) | [Day 4-5 草木不言，妙在其中；昼闻新知，夜听蛙鸣](https://mp.weixin.qq.com/s/2qOcG9_jjVGU6iaNZ_l8MA) | [Day 6-8 朝闻鸟鸣，夕采村声](https://mp.weixin.qq.com/s/YbNPEbHimlp1ILOqqdKgEA) | [Day 9-11 躬行实践，共创美好](https://mp.weixin.qq.com/s/ME552ww20TWCRVOysbvQvw)
 
 ---
 
 **Phononics|Translation: How radio astronomy reveals the universe**
 
-![](20220821/images/Radio_astronomy.jpg){width=30%}
+![](blogs/20220821/images/Radio_astronomy.jpg){width=30%}
 
 [Read the article](https://mp.weixin.qq.com/s/L0Nz9YB2Kl4YbHkse0b1Gg)
 
@@ -31,17 +27,8 @@ Daily blogs of the memorable life in the Green Camp
 
 **Phononics|Reading: The physics and history of global warming**
 
-![](20220822/images/global_warming_physics.png){width=30%}
+![](blogs/20220822/images/global_warming_physics.png){width=30%}
 
 [Read the article](https://mp.weixin.qq.com/s/bsTY1GGUYe0onj18CruHJQ)
 
-### Pictures
-
-To be addded
-
-### Vedios
-
-**[Kingfisher](https://www.bilibili.com/video/BV1Ja411n7UX?spm_id_from=333.999.0.0)** photographed at Sustech.
-
----
 

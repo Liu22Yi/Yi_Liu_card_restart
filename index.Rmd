@@ -4,10 +4,14 @@ image: "Yi_Liu.jpg"
 links:
   - label: GitHub
     url: "https://github.com/Liu22Yi"
-  - label: Blogs
-    url: "Blog.html"
   - label: Publications
-    url: "Publications.html"
+    url: "https://www.researchgate.net/profile/Yi-Liu-436"
+  - label: Videos
+    url: "https://space.bilibili.com/419204858"  
+  - label: Photograph
+    url: "https://pixabay.com/users/yia_ny_sz_annarbor-30677881/" 
+  - label: Daily Blogs
+    url: "DailyBlogs.html"         
 output:
   postcards::trestles
 ---
@@ -17,6 +21,9 @@ output:
 I am a big fan of nature and sports and I focus on environmental data analysis.
 
 ### Education 
+**University of Michigan** | Ann Arbor, Michigan, America
+
+Doctoral program at School for Environment and Sustainability (SEAS) | January 2023 - now
 
 **Southern University of Science and Technology** | Shenzhen, Guangdong, China
 
