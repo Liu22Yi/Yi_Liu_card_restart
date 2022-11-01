@@ -10,8 +10,8 @@ links:
     url: "https://space.bilibili.com/419204858"  
   - label: Photograph
     url: "https://pixabay.com/users/yia_ny_sz_annarbor-30677881/" 
-  - label: Daily Blogs
-    url: "DailyBlogs.html"         
+  - label: Blogs
+    url: "Blog.html"         
 output:
   postcards::trestles
 ---
