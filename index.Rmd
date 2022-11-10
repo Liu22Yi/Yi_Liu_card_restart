@@ -6,6 +6,8 @@ links:
     url: "https://github.com/Liu22Yi"
   - label: Publications
     url: "https://www.researchgate.net/profile/Yi-Liu-436"
+  - label: CV
+    url: "https://docs.google.com/document/d/1RsNVTwOro0B31626UKBpYVVVa8pLYkeQOxixhHBstqQ/edit?usp=sharing"    
   - label: Videos
     url: "https://space.bilibili.com/419204858"  
   - label: Photograph
@@ -28,10 +30,6 @@ Doctoral program at School for Environment and Sustainability (SEAS) | January 2
 **Southern University of Science and Technology** | Shenzhen, Guangdong, China
 
 Bachelor of Engineering in Hydrology and Water Resources Engineering | September 2018 - July 2022
-
-+ First Class of the Merit Student Scholarship for three years
-
-+ University Athletes of the Year
 
 **University of Toronto** | Toronto, Ontario, Canada
 
