@@ -2,36 +2,10 @@
 title: "Yi Liu"
 image: "Yi_Liu.jpg"
 links:
-  - label: GitHub
-    url: "https://github.com/Liu22Yi"
-  - label: Publications
-    url: "https://www.researchgate.net/profile/Yi-Liu-436"
-  - label: CV
-    url: "https://docs.google.com/document/d/1RsNVTwOro0B31626UKBpYVVVa8pLYkeQOxixhHBstqQ/edit?usp=sharing"    
-  - label: Videos
-    url: "https://space.bilibili.com/419204858"  
-  - label: Photograph
-    url: "https://pixabay.com/users/yia_ny_sz_annarbor-30677881/" 
-  - label: Blogs
-    url: "Blog.html"         
+  - label: New website
+    url: "https://liu22yi.github.io/"       
 output:
   postcards::trestles
 ---
  
-## Hi! {.tabset}
-
-I am a big fan of nature and sports and I focus on environmental data analysis.
-
-### Education 
-**University of Michigan** | Ann Arbor, Michigan, America
-
-Doctoral program at School for Environment and Sustainability (SEAS) | January 2023 - now
-
-**Southern University of Science and Technology** | Shenzhen, Guangdong, China
-
-Bachelor of Engineering in Hydrology and Water Resources Engineering | September 2018 - July 2022
-
-**University of Toronto** | Toronto, Ontario, Canada
-
-Exchange student at the Faculty of Applied Science and Engineering| September 2021 - December 2021
-
+Sorry, please visit the new [website](https://liu22yi.github.io/).
